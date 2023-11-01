@@ -13,6 +13,7 @@ function Users({image,phone}){
             <div className="col-3">
                 <button className="btn btn-danger"><i className="fa fa-trash"></i></button>
             </div>
+            <div><h2>Tesing</h2></div>
         </div>
         </div>
     );
